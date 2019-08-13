@@ -1,0 +1,19 @@
+{
+  "name": "nodeexpresshandlebars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khtquach/Node-Express-Handlebars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khtquach/Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/khtquach/Node-Express-Handlebars#readme"
+}
